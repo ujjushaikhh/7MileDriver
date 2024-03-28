@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "478923021746",
+    "project_id": "mile-vapeandhape-customerflow",
+    "storage_bucket": "mile-vapeandhape-customerflow.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478923021746:android:113d4034cdea32d1b758ab",
+        "android_client_info": {
+          "package_name": "com.example.customerflow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRzLpy6B350KCMn7z_93AYZ7meppqOMrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478923021746:android:a507d13804d28e78b758ab",
+        "android_client_info": {
+          "package_name": "com.example.driverflow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRzLpy6B350KCMn7z_93AYZ7meppqOMrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
